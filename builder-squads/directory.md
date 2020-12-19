@@ -1,5 +1,5 @@
 | Squad | Description |  
 |-|-|  
 | [Marketing](./squads/marketing.md) | Manage & evolve all public facing content. |  
-| [Development](./) | |  
-| [Product](./) | |  
+| [Development](./squads/development.md) | |  
+| [Product](./product.md) | |  
