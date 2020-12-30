@@ -1,8 +1,21 @@
-# Objectives
+# Squad Objectives
 
-We create content for the Web3API ecosystem, by writing documentation, creating explainer videos, and branding assets that can be reused.
+We create content for the Web3API ecosystem, by writing documentation, creating explainer videos, and branding assets that can be reused.|
+Mantaining, improving and publishing all public facing content.
 
-# Committed milestones
+## Specific Squad Deliverables  
+Develops messaging for NFT drop.
+Develops messaging memes.
+Mint and deploy NFTs for interested people.
+Clone the NFTs and airdrop them to 0x addresses.
+Make Lottie animation files
+Make instructional videos.
+Make demo videos.
+Make infographics of Web3API prototype related content. 
+Provide content for the UI/UX experience
+etc. etc
+
+## Committed milestones
 Milestones are created as individual issues and posted in the [Web3API public roadmap](https://github.com/Web3-API/roadmap). 
 
 This squad is commited to achieving the following milestone(s):
