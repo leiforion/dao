@@ -20,9 +20,9 @@ Work proposals are used approve commitment to tackle isues on the [Web3API publi
 
 1. Name the file using the number of the roadmapissue, complete all required fields, and feel free to get creative with anything else you'd like to add.
 
-1. Gather feedback on your work proposal from [existing collaborators](../builder-squads/squads/readme.md) and make necessary edits. Remember to:
-   - Sharing your proposal on community channels
-   - Modify the spending proposal to achieve concensus
+1. Gather feedback on your work proposal from [existing collaborators](../builder-squads/squads/README.md#Squads-Directory) and make necessary edits. Remember to:
+   - Share your proposal on community channels
+   - Modify the spending proposal with feedback received to achieve concensus
 
 4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch to merge your work proposal.
 5. Create a proposal in the [DAO's snapshot space](https://snapshot.page/#/web3-api), linking to the open PR.
