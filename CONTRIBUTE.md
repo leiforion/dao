@@ -3,10 +3,8 @@ TODO:
 
 Confirm entire flow
 - [ ] roadmap issue templates is correct
-- [ ] Specific issues can have assigned builders, and if no builder is assigned, then the users should be able to click on instructions on how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/README.md)
-
-- [] List correct public channels of communication
-- [] Add public calendar link 
+- [x] Specific issues can have assigned builders, and if no builder is assigned, then the users should be able to click on instructions on how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/README.md)
+- [ ] List correct public channels of communication
 
 ```
 
@@ -21,6 +19,8 @@ You're also welcome to:
   1. Introduce yourself in the [Public Telegram Dev Chat](#linkneeded) and the Keybase Public Community
   1. Ask questions. While we try to document this process, there might be other things that need clarification.
   1. Suggest improvements and project strategies we could consider. Make sure you reach out to the right Point of Contact who finds that suggestion relevant and can help you implementing
+  1. Participate in calls listed on the [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
+
 
 # Cotributing - FAQs 
 
