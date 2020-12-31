@@ -1,7 +1,7 @@
 ```
 TODO:
 - [ ] fix onboarding steps with new process
-
+- [ ] check contribute.md
 
 ```
 
@@ -9,11 +9,12 @@ TODO:
 [![Generic badge](https://img.shields.io/badge/Wallet-Aragon-52EBFF.svg)](https://client.aragon.org/#/w3api) [![Generic badge](https://img.shields.io/badge/Consensus-Snapshot-f6ad32.svg)](https://snapshot.page/#/web3-api)  
 
 The Web3API DAO is responsible for stewarding the Web3API ecosystem. `W3API` governance token holders will have immediate control of the:
-- Web3API [roadmap](https://github.com/Web3-API/roadmap)
-- [Treasury](https://client.aragon.org/#/w3api/0x8fe59d8fb5ffd3509e5cb3d386be8bdb2d363662/)
-- [`W3API` token issuance](#w3api-token)
+- [Web3API public proadmap](https://github.com/Web3-API/roadmap)
+- [DAO Treasury](https://client.aragon.org/#/w3api/0x8fe59d8fb5ffd3509e5cb3d386be8bdb2d363662/)
+- [`W3API` token issuance](./token.md)
 - [DAO configuration](#dao-configuration)
-- ENS domain (web3api.eth)
+- ENS domains (web3api.eth & web3hub.eth)
+
 
 In the future, it is anticipated that the DAO will also govern:
 
