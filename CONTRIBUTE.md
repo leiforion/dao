@@ -1,18 +1,17 @@
 ```
 TODO:
 
-- [] Confirm entire flow
-1. `dao/readme.md` points to `dao/contribute.md`
-1. `dao/contribute.md` links to `roadmap/readme.md`
-  1. `roadmap/readme.md` links to `roadmap/projects/1. `roadmap/readme.md` explains how to create new issues.
-1. Specific issues can have assigned builders
-  1. If no builder is assigned, then the users should be able to click on instructions on how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/readme.md)
+Confirm entire flow
+- [x] `dao/readme.md` points to `dao/contribute.md`
+- [x] `dao/contribute.md` links to `roadmap/readme.md`
+- [x] `roadmap/readme.md` links to `roadmap/projects/1.
+- [x] `roadmap/readme.md` explains how to create new issues.
+- [ ] issue templates is correct
+- [ ] Specific issues can have assigned builders, and if no builder is assigned, then the users should be able to click on instructions on how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/README.md)
 
 - [] List correct public channels of communication
 - [] Add public calendar link 
 
-** Point of Contact **
-[BuilderNameHere](https://github/Web3-API/dao/builder-squads/builders/buildername.md)
 ```
 
 # Contributing to the Web3API standard
@@ -42,7 +41,7 @@ You're also welcome to:
   1. Make sure that it is not assigned to a squad, or if another builder is planning to tackle it. If it's assigined you can reach the Point of Contact to ask if you can jump in, or select another item from the roadmap.
 
   
-### The issue i am most interested in has been already assigned. Can I still help?
+### The issue I am most interested in has been already assigned. Can I still help?
   If the specific issue is already assigned, you can still:
   1. Find details of how that squad is tackling that milestone on the specific roadmap issue, by going to their approved [work proposals](./spending-proposals)
   1. Reach out to **Point of Contact** listed on the spending proposal, and they should guide you in finding the right tasks to collaborate on.
