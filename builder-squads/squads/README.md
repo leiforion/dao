@@ -1,6 +1,5 @@
 ```
 TODO:
-- [ ] add more detail
 - [ ] List correct squads 
 ```
 
@@ -13,7 +12,6 @@ Builders can participate in as many squads as they want.
 # What to know about the Squad system
 
 Squads are formed to coordinate efforts towards specific milestones on the [Web3API public roadmap](https://github.com/Web3-API/roadmap).
-
 
 # Create a new squad
 
@@ -31,7 +29,6 @@ Feel free to create a new squad with other builders to tackle objectives togethe
 1. Give a name to the squad, complete all required fields, and feel free to get creative with anything else you'd like to add.
 
 1. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch to merge your new squad.
-
 
 # Squads Directory
 
