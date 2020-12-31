@@ -12,7 +12,7 @@ Work proposals are used approve commitment to tackle isues on the [Web3API publi
 
 1. Make sure you fully understand the [DAO Readme.md](../README.md) and the [Contribution Guidelines](../contribute.md)
 
-1. Consider an item from the [Web3API public roadmap](https://github.com/Web3-API/roadmap) you want to tackle.
+1. Consider any unassigned items from the [Web3API public roadmap](https://github.com/Web3-API/roadmap) you want to tackle.
 
 1. Fork [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch'.
 
