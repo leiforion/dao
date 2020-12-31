@@ -1,8 +1,7 @@
 ```
 TODO:
-- [ ] fix onboarding steps with new process
-- [ ] check contribute.md
-
+- [ ] check onboarding flows 
+- [ ] check `./spending proposal` templates and readme
 ```
 
 # Web3API DAO
@@ -45,7 +44,7 @@ With the goal of delivering the items listed on the [Web3API public roadmap](htt
 
 The Web3API DAO is currently using the Aragon Protocol. You can see which governance parameters and Aragon Apps the DAO is using [in the `dao_config.md`](./dao_config.md). You can also see the full configuration [here](https://client.aragon.org/#/w3api/permissions/).
 
-### What is the W3API Token?
+## What is the W3API Token?
 
 The W3API Tokens represent government rights on the Web3API DAO. The tokens are initially set to be non-transferable. Detail on token distribution can be found [here](./token.md)
 

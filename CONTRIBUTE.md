@@ -3,7 +3,6 @@ TODO:
 
 Confirm entire flow
 - [ ] roadmap issue templates is correct
-- [x] Specific issues can have assigned builders, and if no builder is assigned, then the users should be able to click on instructions on how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/README.md)
 - [ ] List correct public channels of communication
 
 ```
