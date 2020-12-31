@@ -16,10 +16,10 @@ To get you started, you can see the [Web3API public roadmap](https://github.com/
 
 You're also welcome to:
 - 
-  1. Introduce yourself in the [Public Telegram Dev Chat](#linkneeded) and the Keybase Public Community
-  1. Ask questions. While we try to document this process, there might be other things that need clarification.
-  1. Suggest improvements and project strategies we could consider. Make sure you reach out to the right Point of Contact who finds that suggestion relevant and can help you implementing
-  1. Participate in calls listed on the [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
+  - Introduce yourself in the [Public Telegram Dev Chat](#linkneeded) and the Keybase Public Community
+  - Ask questions. While we try to document this process, there might be other things that need clarification.
+  - Suggest improvements and project strategies we could consider. Make sure you reach out to the right Point of Contact who finds that suggestion relevant and can help you implementing
+  - Participate in calls listed on the [Public Web3API Calendar](https://calendar.google.com/calendar/embed?src=c_jpqrmmdu58tc2flstpdebr40ng%40group.calendar.google.com)
 
 
 # FAQs 

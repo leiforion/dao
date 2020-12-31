@@ -1,8 +1,6 @@
 ```
 TODO:
-- Process has duplicate instructions, merge into something that makes sense
 - [ ] Define name: Spending Proposals vs Work Proposals
-- [ ] Issues numbers should be linked to the work proposals number nomenclature
 ```
 # Work Proposals
 
