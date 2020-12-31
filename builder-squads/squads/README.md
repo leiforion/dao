@@ -18,8 +18,9 @@ Squads are formed to coordinate efforts l
 - Bounties are set by DAO Vote
 - Squads tackle bounties that have been approved
 
-# Join an existing squad
+# DIRECTORY
 
+Reach out to any of the points of contact that have listed voluntarily here:
 
 | Squad | Description |  
 |-|-|  
@@ -30,7 +31,6 @@ Squads are formed to coordinate efforts l
 | [API Program](./squads/api_program.md) | Improving the API Developer experience |  
 | [Marketing](./squads/marketing.md) | Manage & evolve all public facing content. |  
 | [Content Creation](./squads/content_creation.md) | Creates written, graphic and visual content for the Web3API ecosystem |  
-
 
 # Create a new squad
 

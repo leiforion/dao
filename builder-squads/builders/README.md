@@ -1,6 +1,6 @@
 # Builder Profiles
 
-To get listed as a point of contact in the dao repo, please use the [builder profile template](./TEMPLATE.md) to create a public builder profile.
+To get listed as a point of contact in the dao repo, create a public builder profile by following these steps:
 
 
 1. Make sure you fully understand the [DAO Readme.md](../README.md) and the [Contribution Guidelines](../contribute.md)

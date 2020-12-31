@@ -2,11 +2,11 @@
 TODO:
 
 - [] Confirm entire flow
-1. DAO `dao/readme.md` points to `dao/contribute.md`
+1. `dao/readme.md` points to `dao/contribute.md`
 1. `dao/contribute.md` links to `roadmap/readme.md`
   1. `roadmap/readme.md` links to `roadmap/projects/1. `roadmap/readme.md` explains how to create new issues.
 1. Specific issues can have assigned builders
-  1. If no builder is assigned, then the users should be able to know how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/readme.md)
+  1. If no builder is assigned, then the users should be able to click on instructions on how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/readme.md)
 
 - [] List correct public channels of communication
 - [] Add public calendar link 
