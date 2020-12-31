@@ -36,15 +36,15 @@ You're also welcome to:
 ## How can I tackle an issue from the roadmap?
   Make sure that it is not assigned to a squad, or if another builder is planning to tackle it. If it's assigined you can reach the Point of Contact to ask if you can jump in, or select another item from the roadmap and follow [these guidelines](./spending-proposals/README.md).
   
-### The issue I am most interested in has been already assigned. Can I still help?
+## The issue I am most interested in has been already assigned. Can I still help?
   If the specific issue is already assigned, you can still:
   - Find details of how that squad is tackling that milestone by checking the specific roadmap issue, and by going to their approved [work proposals](./spending-proposals)
   - Reach out to **Point of Contact** listed on the squad profile, they should guide you in finding the right tasks to collaborate on.
 
-### There's something important that should be added to the roadmap. How can I tackle it?
+## There's something important that should be added to the roadmap. How can I tackle it?
    If you think that we're missing something important that should be includeded in the roadmap, and you want to tackle it, please reach out to the DAO through any of its public channels, or message a relevant point of contact within the [squads directory](./builder-squads/squads/README.md#Squads-Directory)
 
-### How can I get listed as a Point of contact?
+## How can I get listed as a Point of contact?
 1. Create a new squad or join an existing one
     - If you'll be the **Point of Contact** for a milestone, make sure to create your builder profile
     - If you're creating a new squad, make sure to also [use this template](../builder-squads/squads/README.md)
