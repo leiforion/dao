@@ -5,20 +5,19 @@ TODO:
 
 # Squads
 
-Squads are groups of builders who tackle one goal together. You can see a list of existing squads in the [squads directory](#Squads-Directory)
+Squads are groups of builders who tackle one goal together. Builders can participate in as many squads as they want.
 
-Builders can participate in as many squads as they want.
+You can see a list of existing squads in the [squads directory](#Squads-Directory)
 
 # What to know about the Squad system
 
 Squads are formed to coordinate efforts towards specific milestones on the [Web3API public roadmap](https://github.com/Web3-API/roadmap).
 
-# Create a new squad
+# Creating a new squad
 
 Feel free to create a new squad with other builders to tackle objectives together. 
 
-
-1. Make sure you fully understand the [DAO Readme.md](../README.md) and the [Contribution Guidelines](../contribute.md)
+1. Make sure you fully understand the [DAO Readme.md](../README.md) and the [Contribution Guidelines](../CONTRIBUTE.md)
 
 1. Make sure you have already been added to the [builder profiles](../builders/README.md)
 
