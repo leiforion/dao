@@ -7,7 +7,7 @@ TODO:
 
 The Web3API Builder Program aims to guide anyone who is interested in building around the Web3API standard. 
 
-In this section you can find squads and builders who will help your way around and getting started. All the points of contact have listed themselves voluntarily, so feel free to ask them specific questions or [create an issue](https://github.com/Web3-API/dao/issues/new).
+In this section you can find squads and builders who will help your way around and getting started. All the points of contact have listed themselves voluntarily [on the squad directory](./squads/README.md#Squads-Directory), so feel free to ask them specific questions or [create an issue](https://github.com/Web3-API/dao/issues/new).
 
 ## Builders and owners: what it means to contribute to a community-owned project
 
