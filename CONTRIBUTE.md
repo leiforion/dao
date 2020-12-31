@@ -2,11 +2,7 @@
 TODO:
 
 Confirm entire flow
-- [x] `dao/readme.md` points to `dao/contribute.md`
-- [x] `dao/contribute.md` links to `roadmap/readme.md`
-- [x] `roadmap/readme.md` links to `roadmap/projects/1.
-- [x] `roadmap/readme.md` explains how to create new issues.
-- [ ] issue templates is correct
+- [ ] roadmap issue templates is correct
 - [ ] Specific issues can have assigned builders, and if no builder is assigned, then the users should be able to click on instructions on how to get it assigned to them [by following this guide](https://github.com/Web3-API/dao/spending-proposals/README.md)
 
 - [] List correct public channels of communication
@@ -18,7 +14,7 @@ Confirm entire flow
 
 If you've reached this page it's because you're interested in contributing to the Web3API standard.
 
-To get you started, you can see the [Web3API public roadmap](https://github.com/Web3-API/roadmap), find an issue which you can tackle, and [follow these instructions](./spending-proposals/readme.md). 
+To get you started, you can see the [Web3API public roadmap](https://github.com/Web3-API/roadmap), find an issue which you can tackle, and [follow these instructions](./spending-proposals/README.md). 
 
 You're also welcome to:
 - 
