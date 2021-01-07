@@ -16,11 +16,11 @@ Work proposals are used approve commitment to tackle isues on the [Web3API publi
 
 1. Duplicate the [`000-TEMPLATE.md`](./spending-proposals/000-TEMPLATE.md) file in the [`./spending-proposals`](./spending-proposals) folder.
 
-1. Name the file using the number of the roadmapissue, complete all required fields, and feel free to get creative with anything else you'd like to add.
+1. Name the file using the number of the roadmap issue, complete all required fields, and feel free to get creative with anything else you'd like to add.
 
 1. Gather feedback on your work proposal from [existing collaborators](../builder-squads/squads/README.md#Squads-Directory) and make necessary edits. Remember to:
    - Share your proposal on community channels
-   - Modify the spending proposal with feedback received to achieve concensus
+   - Modify the spending proposal with feedback received to achieve consensus
 
 4. Open a PR against [web3-api/dao](https://github.com/web3-api/dao)'s `master` branch to merge your work proposal.
 5. Create a proposal in the [DAO's snapshot space](https://snapshot.page/#/web3-api), linking to the open PR.
@@ -30,7 +30,7 @@ Work proposals are used approve commitment to tackle isues on the [Web3API publi
 1. Consider adding your builder profile using the [builder profile template](../builder-squads/builders/TEMPLATE.md)
 
 1. When the work is finished, update your Work Proposal with a list of deliverables that demonstrate your work.
-1. Share this PR with the DAO and Submit a proposal to the Aragon DAo to receive the benefits listed in the work proposal.
+1. Share this PR with the DAO and Submit a proposal to the Aragon DAO to receive the benefits listed in the work proposal.
 
 
 
