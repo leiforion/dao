@@ -34,7 +34,7 @@ Interested in getting involved?
 
 4. Submit payment proposals on [Aragon](https://client.aragon.org/#/w3api) at the delivery milestones laid out in your proposal.*
 
-### 2021 Compensation Guidelines
+### Q1 2021 Compensation Guidelines
 
 Here are some guidelines for making your spending proposals. These guidelines are just guidelines, as all final decisions are made by the DAO.
 
