@@ -1,8 +1,10 @@
 # Title
 
-| Funds Requested | Time Period | Estimated Effort |
-|-|-|-|
-| $ + `W3API` |  | Hours or other estimate |
+(Use the [compensation framework](../README.md#2021-compensation-guidelines) to help choose a rate)
+
+| Funds Requested | Time Period | Estimated Effort | Effective Rate |
+|-|-|-|-|
+| $ + `W3API` |  | Hours or other estimate | $/hr + `W3API`/hr |
 
 ## Summary
 
