@@ -34,7 +34,7 @@ Interested in getting involved?
 
 4. Submit payment proposals on [Aragon](https://client.aragon.org/#/w3api) at the delivery milestones laid out in your proposal.*
 
-### Compensation Guidelines
+### 2021 Compensation Guidelines
 
 Here are some guidelines for making your spending proposals. These guidelines are just guidelines, as all final decisions are made by the DAO.
 
@@ -45,8 +45,6 @@ Choose an hourly rate commensurate with your level of relevant experience and de
 | Junior | 0-2| 0.05 `W3API`, $50 | 0.125 `W3API`, $35 | 0.225 `W3API`, $20 | 0.375 `W3API`, $0 |
 | Intermediate | 2-4 | 0.06 `W3API`, $65 | 0.15 `W3API`, $50 | 0.27 `W3API`, $35 | 0.45 `W3API`, $0 |
 | Senior | 4+ | 0.07 `W3API`, $80 | 0.175 `W3API`, $65 | 0.315 `W3API`, $50| 0.525 `W3API`, $0 |
-
-We also suggest starting at 25% below your rate for a 4 week trial period.
 
 \* *Please keep in mind that all final decisions must be approved by the DAO.*
 
