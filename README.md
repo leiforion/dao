@@ -57,24 +57,24 @@ Choose an hourly rate commensurate with your level of relevant experience and de
 
 The DAO plans to mint no more than 12,000 tokens to incentivize builders and build the DAO treasury from Oct 1, 2020 through Dec 31, 2021. Below is a suggested schedule for the builder payouts, with a designated Treasury/Buffer beginning January 2021 to serve as a surplus resource for future usage (integration grants, partnerships, fundraising, insurance, liquidity, etc.).*
 
-|  | Period | Builder Payout Ceiling | DAO Treasury/Buffer |
-|-|-|-|-|
-| 1 | Oct-2020 | 400 | |
-| 2 | Nov-2020 | 400 | |
-| 3 | Dec-2020 | 400 | |
-| 4 | Jan-2021 | 500 | 400 |
-| 5 | Feb-2021 | 500 | 400 |
-| 6 | Mar-2021 | 500 | 400 |
-| 7 | Apr-2021 | 500 | 400 |
-| 8 | May-2021 | 500 | 400 |
-| 9 | Jun-2021 | 500 | 400 |
-| 10 | Jul-2021 | 500 | 400 |
-| 11 | Aug-2021 | 500 | 400 |
-| 12 | Sep-2021 | 500 | 400 |
-| 13 | Oct-2021 | 500 | 400 |
-| 14 | Nov-2021 | 500 | 400 |
-| 15 | Dec-2021 | 500 | 400 |
-| | TOTAL | 7,200 | 4,800 |
+|  | Period | Builder Payout Ceiling | DAO Treasury/Buffer | $ Burn Cap | $ Burn Actual |
+|-|-|-|-|-|-|
+| 1 | Oct-2020 | 400 | | $15k | [$12k](./token-allocations/budget-2020-10.csv) |
+| 2 | Nov-2020 | 400 | | $15k | [$18k](./token-allocations/budget-2020-10.csv) |
+| 3 | Dec-2020 | 400 | | $TODO | $TODO |
+| 4 | Jan-2021 | 500 | 400 | $TODO | $TODO |
+| 5 | Feb-2021 | 500 | 400 | $TODO | $TODO |
+| 6 | Mar-2021 | 500 | 400 | $TODO | $TODO |
+| 7 | Apr-2021 | 500 | 400 | $TODO | $TODO |
+| 8 | May-2021 | 500 | 400 | $TODO | $TODO |
+| 9 | Jun-2021 | 500 | 400 | $TODO | $TODO |
+| 10 | Jul-2021 | 500 | 400 | $TODO | $TODO |
+| 11 | Aug-2021 | 500 | 400 | $TODO | $TODO |
+| 12 | Sep-2021 | 500 | 400 | $TODO | $TODO |
+| 13 | Oct-2021 | 500 | 400 | $TODO | $TODO |
+| 14 | Nov-2021 | 500 | 400 | $TODO | $TODO |
+| 15 | Dec-2021 | 500 | 400 | $TODO | $TODO |
+| | TOTAL | 7,200 | 4,800 | -$SPENT | +$LEFT |
 
 \* *Please keep in mind that the DAO can decide to change these plans at any time*
 
