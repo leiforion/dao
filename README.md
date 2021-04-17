@@ -20,9 +20,9 @@ Interested in getting involved?
 
 | Domain| Points of Contact |  
 |-|-|
-| [Core Client](https://github.com/Web3-API/prototype) | dOrgJelli |  
+| [Toolchain](https://github.com/Web3-API/prototype) | dOrgJelli |  
 | [Standard](https://github.com/Web3-API/specification) | Belma, dOrgJelli |  
-| [Web3Hub](https://github.com/Web3-API/web3hub) | kachette |  
+| [Hub](https://github.com/Web3-API/web3hub) | kachette |  
 | [Landing Page](https://github.com/Web3-API/landing-page) and [Branding](https://github.com/Web3-API/branding) | Media |  
 | [Twitter](https://twitter.com/web3api) and [Substack](https://web3api.substack.com/) | Ingalandia |
 | Launch Partners & Dev Relations | keeevin |
@@ -54,11 +54,11 @@ Here is the projected global burn rate that builder teams and token holders shou
 | Period | `W3API` | Stablecoins | |
 |-|-|-|-|
 | Q4-20 | 828.969 | $79,193 | actual |
-| Q1-21 | 970 | $167,377 | projected |
+| Q1-21 | ~~970~~ 661.755 | $167,377 | actual |
 | Q2-21 | 1,353 | $240,721 | projected |
 | Q3-21 | 1,392 | $248,244 | projected |
 | Q4-21 | 1,456 | $259,527 | projected |
-| TOTAL  | 6,000 | $995,062 | |
+| TOTAL  | 6,000 | $988,707 | |
 
 ## Token Distribution
 > NOTE: Tokens are initially set to be non-transferable.
