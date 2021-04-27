@@ -54,7 +54,7 @@ Here is the projected global burn rate that builder teams and token holders shou
 | Period | `W3API` | Stablecoins | |
 |-|-|-|-|
 | Q4-20 | 828.969 | $79,193 | actual |
-| Q1-21 | ~~970~~ 661.755 | $167,377 | actual |
+| Q1-21 | ~~970~~ 703.95475 | $131,767 | actual |
 | Q2-21 | 1,353 | $240,721 | projected |
 | Q3-21 | 1,392 | $248,244 | projected |
 | Q4-21 | 1,456 | $259,527 | projected |

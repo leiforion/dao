@@ -20,6 +20,14 @@ The tokens will be distributed pro-rata, as rewards to the participants of each 
 
 Address(es) and distribution of funds will vary each month.
 
+### March 2021 ([Results](https://github.com/Web3-API/mini-hacks/issues/6))
+
+| Submission | Address | Vote % | `W3API` Reward |  
+|-|-|-|-|  
+| [Simpler Web3API Logo - Roberto](https://github.com/Web3-API/mini-hacks/issues/3) | 0x37341cbb14c5f128a70b149726ad8b2ce6f4c793 | 34.81% | 6.962 |  
+| [Web3API HardHat Plugin - Kris Bitney](https://github.com/Web3-API/mini-hacks/issues/4) | 0xC3C54Ee8B495A5004602AFf40c5880fb8E375aaD | 34.18% | 6.836 |  
+| [Uniswap Web3API Demo Mockup - Kevin Ngo](https://github.com/Web3-API/mini-hacks/issues/5) | 0x937F5b32Bc3cafcd1B02462F93e6AE5a843f6C6A | 6.202 |  
+
 ## About You
 
 My name is Roberto. A few months ago I participated in the HackFS hackathon with Jordan, Ori, and Cesar. Since then I've been able to help with branding, strategy, adoption, and overall operations.
