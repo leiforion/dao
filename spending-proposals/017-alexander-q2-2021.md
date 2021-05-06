@@ -1,8 +1,8 @@
 # Alexander's services for Q2 2021
 
-| Funds Requested       | Time Period          | Estimated Effort |
-| --------------------- | -------------------- | ---------------- |
-| $31,200 + 84 `W3API`  | Apr 1 - Jun 30, 2021 | 480 hours        |
+| Funds Requested      | Time Period          | Estimated Effort |
+| -------------------- | -------------------- | ---------------- |
+| $31,200 + 84 `W3API` | Apr 1 - Jun 30, 2021 | 480 hours        |
 
 _Note that timeline is an estimate for the deliverables listed below._
 
@@ -18,6 +18,12 @@ Alexander proposes providing the development services of the following:
 ## Deliverable Log
 
 The deliverable log below will be updated at the end of each month.
+
+### April 1 - 30 (160 hours)
+
+-   [Improved Plugin Creator Developer Experience](https://github.com/Web3-API/monorepo/issues/110)
+-   [Refactor the w3 codegen Command](https://github.com/Web3-API/monorepo/issues/257)
+-   [CLI Logging Levels](https://github.com/Web3-API/monorepo/issues/99) (WIP - 30% done)
 
 ## Fund Distribution
 
