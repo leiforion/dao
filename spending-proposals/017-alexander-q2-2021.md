@@ -21,9 +21,10 @@ The deliverable log below will be updated at the end of each month.
 
 ### April 1 - 30 (160 hours)
 
--   [Improved Plugin Creator Developer Experience](https://github.com/Web3-API/monorepo/issues/110)
--   [Refactor the w3 codegen Command](https://github.com/Web3-API/monorepo/issues/257)
--   [CLI Logging Levels](https://github.com/Web3-API/monorepo/issues/99) (WIP - 30% done)
+1. CLI `codegen` command was updated to use both `web3api.yaml` and `web3api.gen.js` files to generate code and build schema
+2. CLI `plugin` command was implemented to do specific `build` and `codegen` actions for plguins using pre-defined schema
+3. Unit tests were updated/written for the both commands
+4. CLI `trace` command was added and `@web3api/tracing` package was updated to support log levels (WIP - logging server needs to be added)
 
 ## Fund Distribution
 
