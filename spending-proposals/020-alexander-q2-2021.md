@@ -1,8 +1,8 @@
 # Alexander's services for Q2 2021
 
-| Funds Requested       | Time Period          | Estimated Effort |
-| --------------------- | -------------------- | ---------------- |
-| $31,200 + 84 `W3API`  | Apr 1 - Jun 30, 2021 | 480 hours        |
+| Funds Requested      | Time Period          | Estimated Effort |
+| -------------------- | -------------------- | ---------------- |
+| $31,200 + 84 `W3API` | Apr 1 - Jun 30, 2021 | 480 hours        |
 
 _Note that timeline is an estimate for the deliverables listed below._
 
@@ -18,6 +18,13 @@ Alexander proposes providing the development services of the following:
 ## Deliverable Log
 
 The deliverable log below will be updated at the end of each month.
+
+### April 1 - 30 (160 hours)
+
+1. CLI `codegen` command was updated to use both `web3api.yaml` and `web3api.gen.js` files to generate code and build schema
+2. CLI `plugin` command was implemented to do specific `build` and `codegen` actions for plguins using pre-defined schema
+3. Unit tests were updated/written for the both commands
+4. CLI `trace` command was added and `@web3api/tracing` package was updated to support log levels (WIP - logging server needs to be added)
 
 ## Fund Distribution
 
