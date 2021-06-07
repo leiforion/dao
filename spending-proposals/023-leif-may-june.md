@@ -2,7 +2,10 @@
 
 | Funds Requested | Time Period | Estimated Effort | Effective Rate |
 |-|-|-|-|
-| $9750 + 26 `W3API` |May 17, 2021 - June 30, 2021  | 150Hrs | $65 + 0.175 `W3API` |
+| $2600 + 2.4 `W3API` + $379 Notion Reembursement |May 17, 2021 - May 30, 2021  | 40Hrs | $65 + 0.175 `W3API` |
+| $1300 + 1.2 `W3API` |June 1, 2021 - June 30, 2021  | 20Hrs | $65 + 0.175 `W3API` |
+
+Notion Invoice: https://www.notion.so/invoice/in_1IxtVMCcKlYJxALV2E3vBIZp
 
 ## Summary
 
