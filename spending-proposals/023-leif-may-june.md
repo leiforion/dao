@@ -6,8 +6,6 @@
 |-|-|-|-|
 | $0 + 0 `W3API` |May 17, 2021 - June 30, 2021  | 150Hrs | $0 + 0 `W3API` |
 
-
-
 ## Summary
 
 I will be taking over the project and product management practice for Web3API, with a focus over the next 1.5 months on: familiarization of the work done so far, the conintued efforts to find product market fit, running weekly internal syncs and ad-hok sessions, general project management tasks, and collaborate on strategy development for monetization. Initially I will provide 25hrs a week (150hrs) of service.
